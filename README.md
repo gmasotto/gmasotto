@@ -10,7 +10,7 @@ I earned Master's Degree in Engineering and Computer Science in 2021 and I passe
 
 My interests range from Frontend development to AI, and I'm always eager to explore new technological horizons.
 
-On a personal level, I'm passionate about personal growth and personal finance.
+On a personal level, I'm passionate about personal growth and personal finance.   
 I love reading books 📗 and play Karate 🥋
 
 Have a Nice Day✌️
