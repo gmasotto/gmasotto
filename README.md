@@ -1,17 +1,17 @@
 # 💫 About Me:
 I'm Giovanni.
 
-I'm a Software Enginerr with over 4 years of experience in web development.
-I have experience working in Frontend and Machine Learning.
+I’m a Senior Frontend Engineer, with 5+ years of experience, who enjoys turning complex problems into simple and reliable products.
+ 
+My background is mainly focused on React, TypeScript and modern frontend engineering, but what really motivates me is building software that lasts: clean architectures, scalable systems, great developer experience, and products that deliver value to users.
 
-During my career, I have worked with multiple programming languages, libraries, frameworks and technologies such as **Typescript**, Python, **React**, Vue, Mui, Vuetify, Git, **Tailwind**. 
+I’m particularly interested in the intersection between Software Engineering and Artificial Intelligence. Not only building AI-powered products, but also understanding how AI can help engineers design, develop, test and maintain software more effectively.  
 
-I earned Master's Degree in Engineering and Computer Science in 2021 and I passed the state exam for Information Engineer in the same year.
+I hold a Master’s Degree in Computer Science and Engineering and I’m a licensed Information Engineer.
 
-My interests range from Frontend development to AI, and I'm always eager to explore new technological horizons.
-
-On a personal level, I'm passionate about personal growth and personal finance.   
-I love reading books 📗 and play Karate 🥋
+When I’m not coding, you’ll probably find me reading, studying something new, exploring personal finance, or working on side projects involving automation, AI and software products.
+ 
+Technology changes fast. Curiosity is what keeps us relevant.
 
 
 ## 🌐 Socials:
