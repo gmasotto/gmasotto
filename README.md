@@ -9,7 +9,7 @@ I’m particularly interested in the intersection between Software Engineering a
 
 I hold a Master’s Degree in Computer Science and Engineering and I’m a licensed Information Engineer.
 
-When I’m not coding, you’ll probably find me reading, studying something new, exploring personal finance, or working on side projects involving automation, AI and software products.
+When I’m not coding, you’ll probably find me reading, studying something new, exploring personal finance or working on side projects involving automation, AI and software products.
  
 Technology changes fast. Curiosity is what keeps us relevant.
 
